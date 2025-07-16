@@ -47,7 +47,7 @@ Jarvis/ <br>
 ## 🗣️ Usage
 **Run the assistant using:**
 - python jarvis.py <br>
-Then speak "Jarvis" to activate. Once acknowledged, give your command like:
+**Note** : Then speak "Jarvis" to activate. Once acknowledged, give your command like:
 
 - "Open Google"
 - "Play [song name]"
